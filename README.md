@@ -99,19 +99,19 @@ Durante la fase de limpieza y preparación se realizaron las siguientes acciones
 
 # Gráfica para identificar el outlier en la columna "amount".
 
-![Distribución de Precios y Outliers](img/amount.png)
+![Distribución de Precios y Outliers](assets/amount.png)
 
 ---
 
 # Gráfica de los días de alquiler
 
-![Clasificación de Niveles de Pago](img/alquiler.png)
+![Clasificación de Niveles de Pago](assets/alquiler.png)
 
 ---
 
 # Gráfica de la distribución de los importes de pago
 
-![Distribución de la Duración del Alquiler](img/pago.png)
+![Distribución de la Duración del Alquiler](assets/pago.png)
 
 --- 
 
@@ -122,7 +122,7 @@ Durante la fase de limpieza y preparación se realizaron las siguientes acciones
 ├── data/
 ├── notebooks/
 ├────── Dataframe_final.ipynb
-├── img/
+├── assets/
 ├────── alquiler.png
 ├────── amount.png
 ├────── pago.png
